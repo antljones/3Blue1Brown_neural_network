@@ -1,2 +1,3 @@
 training_data/train-images-idx3-ubyte
 training_data/train-images-idx3-ubtye.gzip
+training_data/train*
